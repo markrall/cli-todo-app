@@ -1,0 +1,24 @@
+{
+  "name": "@codeinfront/todo-app",
+  "version": "1.0.0",
+  "description": "Simple NodeJS CLI todo manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markrall/cli-todo-app.git"
+  },
+  "keywords": [
+    "todo",
+    "cli",
+    "node"
+  ],
+  "author": "codeinfront",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markrall/cli-todo-app/issues"
+  },
+  "homepage": "https://github.com/markrall/cli-todo-app#readme"
+}
